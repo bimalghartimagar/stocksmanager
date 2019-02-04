@@ -1,0 +1,27 @@
+################################################################################
+# This requirements file has been automatically generated from `Pipfile` with
+# `pipenv-to-requirements`
+#
+#
+# This has been done to maintain backward compatibility with tools and services
+# that do not support `Pipfile` yet.
+#
+# Do NOT edit it directly, use `pipenv install [-d]` to modify `Pipfile` and
+# `Pipfile.lock` and then regenerate `requirements*.txt`.
+################################################################################
+
+asn1crypto==0.24.0
+cffi==1.11.5
+cryptography==2.5
+dj-database-url==0.5.0
+django-heroku==0.3.1
+django-rest-knox==3.6.0
+django==2.1.5
+djangorestframework==3.9.1
+gunicorn==19.9.0
+psycopg2==2.7.7
+pycparser==2.19
+pyopenssl==19.0.0
+pytz==2018.9
+six==1.12.0
+whitenoise==4.1.2
