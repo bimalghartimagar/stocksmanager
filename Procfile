@@ -1,1 +1,1 @@
-web: gunicorn stocksmanager.stocksmanager.wsgi --log-file -
+web: gunicorn stocksmanager.wsgi --log-file -
