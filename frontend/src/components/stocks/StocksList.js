@@ -19,7 +19,7 @@ export class StocksList extends Component {
     return (
       <Fragment>
         <h2>Stocks List</h2>
-        <table className="table table-striped table-sm table-responsive">
+        <table className="table table-striped table-sm table-responsive-md">
           <thead>
             <tr className="table-active">
               <th>ID</th>
